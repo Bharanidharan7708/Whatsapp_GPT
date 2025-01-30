@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Screenshot
-![Chatbot Screenshot](twilio.jpg)
+<img src="twilio.jpg" alt="Chatbot Screenshot" width="300">
 
 ---
 
